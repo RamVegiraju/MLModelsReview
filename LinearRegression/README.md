@@ -1,4 +1,4 @@
-**Pros and Cons List**
+**Model Theory & Pros/Cons**
 
 Use the Notion link for Multiple Linear Regression theory overview/summary and specifically pros/cons with the model.
 
