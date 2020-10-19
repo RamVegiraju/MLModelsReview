@@ -1,2 +1,2 @@
 # MLModelsReview
-Code implementation and theory explanation of basic ML algorithms for review.
+Code implementation and pros/cons of basic ML algorithms for review.
