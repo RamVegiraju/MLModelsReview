@@ -9,6 +9,11 @@
     - Parametric: Assume statistical distributions in the data, several conditions need to be met (Ex: Linear Regression)
     - Non-Parametric: Makes no assumptions about data distribution/conditions for the data to meet.
 
-Use the Notion link for **KNN** theory overview/summary and specifically pros/cons with the model.
+## Cons
 
-https://www.notion.so/Theory-4c0091896b1d43a098b4e6f90d23f3e6
+- Struggles with **large high dimensions**, the greater the number of dimensions the harder for the algorithm to efficiently calculate distance (**Curse of Dimensionality)**.
+    - Often need to use dimensionality reduction techniques, especially in regression tasks with noisy data
+- Very **sensitive to outliers & noise**
+- Can become very **computationally expensive** as the **dataset grows**, need a lot of memory and can become very slow with a large sized dataset
+- **K value selection**, often need to estimate ranges or combine with cross-validation techniques to obtain the optimal k value selection
+    - Frequent technique is to plot an **elbow graph** to find optimal k value
