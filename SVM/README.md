@@ -1,5 +1,15 @@
-**Model Theory & Pros/Cons**
+# **Pros/Cons**
 
-Use the Notion link for KNN theory overview/summary and specifically pros/cons with the model.
+## Pros
 
-https://www.notion.so/Theory-f58fc8b06bed4d769da43575a1283b17
+- Very effective with **highly dimensional data**.
+- Works extremely well when there is a **clear margin of separation**.
+- Effective when there are **more dimensions than number of samples**.
+- **Outliers have less of an impact** as the hyperplane is affected only by the support vectors.
+
+
+## Cons
+
+- **Selecting an appropriate kernel** can be computationally expensive/need to know the dataset very well to be able to pick the right kernel.
+- Can take a large amount of **time** with a large dataset.
+- Struggles with performance when there is a lot of **overlap between the target classes** or noise in classification problems.
