@@ -2,4 +2,8 @@
 
 Use the Notion link for KNN theory overview/summary and specifically pros/cons with the model.
 
-https://www.notion.so/Theory-6b7c2d55618e4524a221fe626f6623f8
+**Pros**
+
+- Very easy to **interpret** the results and highlighting conclusions in a visual manner.
+- Very flexible and fast, also **scalable** for large datasets.
+- Always yields a result.
