@@ -18,7 +18,3 @@
             - Your observations for the dependent variable are selected independently and at random.
             - Regression residuals are normally distributed.
     - Non-Parametric: Makes no assumptions about data distribution/conditions for the data to meet.
-
-Use the Notion link for **Multiple Linear Regression** theory overview/summary and specifically pros/cons with the model.
-
-https://www.notion.so/Theory-1fcb138c75c64ff09ce861f9b11a72fe
