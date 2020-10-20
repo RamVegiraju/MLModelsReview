@@ -11,7 +11,7 @@
 
 ## Cons
 
-- Struggles with **large high dimensions**, the greater the number of dimensions the harder for the algorithm to efficiently calculate distance (**Curse of Dimensionality)**.
+- Struggles with **large number of dimensions**, the greater the number of dimensions the harder for the algorithm to efficiently calculate distance (**Curse of Dimensionality)**.
     - Often need to use dimensionality reduction techniques, especially in regression tasks with noisy data
 - Very **sensitive to outliers & noise**
 - Can become very **computationally expensive** as the **dataset grows**, need a lot of memory and can become very slow with a large sized dataset
